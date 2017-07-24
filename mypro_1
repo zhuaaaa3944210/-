@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>聚优建材页面</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<!--头部-->
+<div class="head">
+        <!--LOGO-->
+        <div class="logo">
+            <a href="###">
+                <img src="img/logo.png" alt="">
+            </a>
+        </div>
+        <!--导航-->
+        <ul class="nav">
+            <li><a href="">首页</a></li>
+            <li><a href="">公司介绍</a></li>
+            <li><a href="">新闻中心</a></li>
+            <li><a href="">产品中心</a></li>
+            <li><a href="">联系我们</a></li>
+        </ul>
+        <!--咨询电话-->
+        <div class="head_right">
+            <div class="tel">
+                <a href="">
+                    <img src="img/tel.jpg" alt="">
+                    <span style="font-size:14px;color:#000">咨询电话：</span>
+                    <span style="font-size:14px;color:#2083e6">400-2333-3333</span>
+                </a>
+            </div>
+            <div class="search">
+                <form action="">
+                    <input type="text" value="请输入关键词" onfocus="if(this.value=='请输入关键词') this.value=''" onblur="if(this.value=='') this.value='请输入关键词'"><img src="img/search.jpg" alt="" style="float:left">
+                </form>
+            </div>
+        </div>
+</div>
+<!--banner轮播-->
+    <div class="banner">
+        <ul class="banner_img">
+            <li class="on"><a href="###"><img src="img/banner1.png" alt=""></a></li>
+            <li><a href="###"><img src="img/banner2.png" alt=""></a></li>
+            <li><a href="###"><img src="img/banner3.png" alt=""></a></li>
+        </ul>
+        <ul class="banner_btn">
+            <li class="on"></li>
+            <li></li>
+            <li style="margin-right:0px"></li>
+        </ul>
+        <div class="banner_prev">
+            <
+        </div>
+        <div class="banner_next">
+            >
+        </div>
+    </div>
+<!--公司简介-->
+    <div class="about">
+        <!--container固定为1200大小居中的盒模型-->
+        <div class="container">
+            <div class="title">
+                <h3>公司简介</h3>
+                <h6>ABOUT <span>US</span></h6>
+            </div>
+            <p>
+                聚优建材有限公司成立于2013年8月，是一家专业生产聚氨酯单组份湿固化填缝剂的生产厂家。公司注重核心技术的开发和研制。<br/>引进欧洲技术与行业内资深专家共同合作，<br/>研制出的产品泡空均匀细腻、抗压强度高、粘结性能好，产品质量稳定永不收缩等特点。面对国内市场，聚优销售中高端产品已<br/>服务小众经销商策群体为主，保证经销商利润，永恒的产品品质、完美的销售体系、贴心的优质服务，是客户的首选。
+            </p>
+            <a href="###" class="more">
+                查看更多
+            </a>
+        </div>
+    </div>
+<!--新闻中心-->
+    <div class="news">
+        <div class="container">
+            <div class="title">
+                <h3>新闻中心</h3>
+                <h6><span>N</span>EWS</h6>
+            </div>
+                <a href="###" class="on">
+                    <img src="img/news2.png" alt="">
+                </a>
+                <ul class="news_list">
+                    <li><a href="">聚氨酯泡沫填缝剂正确使用方法</a><span>2017-01-01</span></li>
+                    <li><a href="">聚优建材介绍泡沫填缝剂</a><span>2017-01-01</span></li>
+                    <li><a href="">日常生活中如何来判断聚氨酯泡...</a><span>2017-01-01</span></li>
+                    <li><a href="">日常生活中如何来判断聚氨酯泡...</a><span>2017-01-01</span></li>
+                    <li><a href="">日常生活中如何来判断聚氨酯泡...</a><span>2017-01-01</span></li>
+                </ul>
+            <a href="###" class="more">
+                查看更多
+            </a>
+        </div>
+    </div>
+<!--产品中心-->
+    <div class="product">-->
+        <div class="container">
+            <div class="title">
+                <h3>产品中心</h3>
+                <h6>PRODUC<span>T</span></h6>
+            </div>
+            <ul class="pro_list">
+                <li>
+                    <h3>
+                        <a href="###">钻睿-U5</a>
+                    </h3>
+                    <p>
+                        出枪流畅,表干快,色泽佳,固<br/>化后泡空均匀、有弹性,不收缩.
+                    </p>
+                </li>
+                <li>
+                    <h3>
+                        <a href="###">钻睿-U5</a>
+                    </h3>
+                    <p>
+                        出枪流畅,表干快,色泽佳,固<br/>化后泡空均匀、有弹性,不收缩.
+                    </p>
+                </li>
+                <li>
+                    <h3>
+                        <a href="###">钻睿-U5</a>
+                    </h3>
+                    <p>
+                        出枪流畅,表干快,色泽佳,固<br/>化后泡空均匀、有弹性,不收缩.
+                    </p>
+                </li>
+                <li>
+                    <h3>
+                        <a href="###">钻睿-U5</a>
+                    </h3>
+                    <p>
+                        出枪流畅,表干快,色泽佳,固<br/>化后泡空均匀、有弹性,不收缩.
+                    </p>
+                </li>
+                <li>
+                    <h3>
+                        <a href="###">钻睿-U5</a>
+                    </h3>
+                    <p>
+                        出枪流畅,表干快,色泽佳,固<br/>化后泡空均匀、有弹性,不收缩.
+                    </p>
+                </li>
+                <li>
+                    <h3>
+                        <a href="###">钻睿-U5</a>
+                    </h3>
+                    <p>
+                        出枪流畅,表干快,色泽佳,固<br/>化后泡空均匀、有弹性,不收缩.
+                    </p>
+                </li>
+            </ul>
+            <a href="###" class="more">查看更多</a>
+        </div>
+    </div>
+<!--底部-->
+    <div class="foot">
+        <div class="service">
+            <div class="container">
+                <ul class="service_list">
+                    <li>
+                        <dl >
+                            <dt>联系我们</dt>
+                            <dd class="on"><img src="img/service1.jpg" alt="">电话：400-2333-3333</dd>
+                            <dd class="on"><img src="img/service2.jpg" alt="">邮箱：juyou@qq.com</dd>
+                            <dd class="on"><img src="img/service3.jpg" alt="">地址：广西壮族自治区<br/>南宁市青秀区民乐路1号</dd>
+                        </dl>
+                    </li>
+
+                    <li>
+                        <dl>
+                            <dt>网站导航</dt>
+                            <dd>首页</dd>
+                            <dd>公司介绍</dd>
+                            <dd>新闻中心</dd>
+                            <dd>产品中心</dd>
+                            <dd>联系我们</dd>
+                        </dl>
+                    </li>
+                    <li>
+                        <dl>
+                            <dt>产品展示</dt>
+                            <dd>速干发泡胶</dd>
+                            <dd>细泡发泡胶</dd>
+                            <dd>工程发泡胶</dd>
+                            <dd>门窗发泡胶</dd>
+                        </dl>
+                    </li>
+                    <li>
+                        <dl>
+                            <dt>友情链接</dt>
+                            <dd>多迪网络</dd>
+                            <dd>无忧人才</dd>
+                            <dd>前程无忧</dd>
+                            <dd>威客中国</dd>
+                        </dl>
+                    </li>
+                </ul>
+                <div class="partner">
+                    <ul class="partner_list">
+                        <li><img src="img/service4.jpg" alt=""></li>
+                        <li><img src="img/service5.jpg" alt=""></li>
+                        <li><img src="img/service6.jpg" alt=""></li>
+                        <li><img src="img/service8.png" alt=""></li>
+                    </ul>
+                    <div class="download">
+                        <img src="img/service7.jpg" alt=""><br/><span>扫一扫</span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="copyright">
+                <p>版权所有&nbsp粤&nbspICP&nbsp备&nbsp16101535&nbsp号&nbsp-1&nbsp百单网</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="js/jquery.js"></script>
+<script src="js/index.js"></script>
+</html>
